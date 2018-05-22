@@ -46,6 +46,9 @@ works through your web browser, so things will work right away!
  - [Another useful collection of Python tutorials](http://www.whoishostingthis.com/resources/python/)
  - Simplilearn has some trainings ([basics](http://www.simplilearn.com/mobile-app-development-and-programming/python-programming-for-beginners), [intermediate](http://www.simplilearn.com/mobile-app-development-and-programming/python-development-training), [advanced](http://www.simplilearn.com/mobile-app-development-and-programming/advanced-web-development-training)). They're not free!
 
+### Other Resources
+- [RapidAPI](https://rapidapi.com) - Python friendly APIs to test
+
 #### Video tutorials
  - [Coursera](https://www.coursera.org/course/interactivepython)
  - [Khan Academy](https://www.khanacademy.org/science/computer-science)
